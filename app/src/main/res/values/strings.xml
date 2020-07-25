@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewPager2Demo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">home_fragment</string>
+    <string name="page_fragment">page_fragment</string>
+    <string name="indicator_fragment">indicator_fragment</string>
+    <string name="others_fragment">others_fragment</string>
+    <string name="home">首页</string>
+    <string name="page">查找</string>
+    <string name="find">发现</string>
+    <string name="others">其他</string>
+    <string name="loading_image">加载图片</string>
+    <string name="not_scale">不缩放</string>
+    <string name="a_half_scale">二分之一</string>
+    <string name="quarter_scale">四分之一</string>
+    <string name="clip_image">截取</string>
+</resources>
